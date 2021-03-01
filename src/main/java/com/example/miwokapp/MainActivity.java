@@ -8,6 +8,12 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.miwokapp.ColorsActivity;
+import com.example.miwokapp.FamilyActivity;
+import com.example.miwokapp.NumbersActivity;
+import com.example.miwokapp.PhrasesActivity;
+import com.example.miwokapp.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
